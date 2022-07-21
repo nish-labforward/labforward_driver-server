@@ -8,6 +8,7 @@ The NodeJs project requires the following packages/modules
 
 - NodeJS and NPM Installation
 - Prompt-sync
+- Socket.io 
 
 ## Follow the guide to run the project
 
